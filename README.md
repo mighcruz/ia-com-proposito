@@ -21,6 +21,17 @@ A solução aborda os impactos sociais, éticos e legais da utilização de Inte
 
 A **LGPD (Lei nº 13.709/2018)** foi utilizada como referência normativa brasileira para proteção de dados pessoais, enquanto o **EU AI Act (Regulamento (UE) 2024/1689)** foi utilizado como referência regulatória internacional para governança e abordagem baseada em risco.
 
+---
+
+## 📊 Infográfico do Projeto
+
+Para facilitar a compreensão visual do framework **Marketing Ético 4.0** e da estratégia da campanha, confira o infográfico resumido abaixo:
+
+![Infográfico: O Futuro do Marketing Ético](assets/O_Futuro_do_Marketing_Ético.png)
+*(Clique na imagem para ampliar)*
+
+---
+
 ## Contexto e Problema
 
 A adoção acelerada da Inteligência Artificial no marketing traz desafios críticos relacionados a:
@@ -100,14 +111,7 @@ A solução central é o framework **Marketing Ético 4.0**, estruturado em quat
 
 - **Framework Marketing Ético 4.0:** Documento estruturando os quatro pilares de atuação.
 - **Campanha "IA com Propósito":** Definição de posicionamento, mensagem central ("Inovação só é verdadeiramente inteligente quando é ética"), público-alvo e identidade visual.
-- **Protótipos Criativos Multicanal:** 
-  1. Publicação para Instagram/LinkedIn.
-  2. E-mail Marketing com "Guia de Transparência em IA".
-  3. Banner institucional para Website (Hero Section).
-  4. Anúncio conceitual para Mídia Impressa.
-- **Outros Entregáveis:** Análise de riscos éticos/legais, alinhamento com ODS, conceito do Selo de Transparência Ética e vídeo pitch final.
-
-*[Espaço reservado para inserção de imagens reais dos quatro protótipos, do framework e do conceito do Selo de Transparência Ética]*
+- **Outros Entregáveis:** Análise de riscos éticos/legais, alinhamento com ODS, conceito do Selo de Transparência Ética e vídeos de apresentação.
 
 ## Resultados e Avaliação Conceitual
 
@@ -140,10 +144,14 @@ A solução central é o framework **Marketing Ético 4.0**, estruturado em quat
 
 ## 📂 Documentação, Evidências e Recursos
 
-- [Link para o Vídeo Pitch Final](#)
-- [Link para a Documentação Acadêmica Completa](#)
-- [Link para os Protótipos da Campanha Multicanal](#)
-- [Link para Materiais de Referência (LGPD, EU AI Act, Responsible AI)](#)
+- 🎥 **[Vídeo Pitch Final](assets/DVID%20-%20IA%20com%20Propósito.mp4)**
+- 🎬 **[Vídeo de Apresentação Completa](assets/IA_com_Propósito_e_Marketing_Ético_4.0.mp4)**
+- 📄 **[Documentação Acadêmica Completa (PDF)](docs/DOC%20-%20IA%20com%20Propósito.pdf)**
+- 📚 **Materiais de Referência:**
+  - [AI Act Europeu (Regulamento (UE) 2024/1689)](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R1689)
+  - [Princípios de Transparência da UNESCO](https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil)
+  - [LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
+  - [Documentação Microsoft Responsible AI](https://www.microsoft.com/pt-br/ai/responsible-ai)
 
 ---
 
