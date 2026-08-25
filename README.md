@@ -144,15 +144,14 @@ A solução central é o framework **Marketing Ético 4.0**, estruturado em quat
 
 ## 📂 Documentação, Evidências e Recursos
 
-- 🎥 **[Vídeo Pitch Final](assets/DVID%20-%20IA%20com%20Propósito.mp4)**
-- 🎬 **[Vídeo de Apresentação Completa](assets/IA_com_Propósito_e_Marketing_Ético_4.0.mp4)**
-- 📄 **[Documentação Acadêmica Completa (PDF)](docs/DOC%20-%20IA%20com%20Propósito.pdf)**
+- 🎥 **[Vídeo Pitch Final](https://drive.google.com/file/d/1i3Z6wxVjX8m1MG7bLsClZ3WXjWDGrXgQ/view?usp=sharing)**
+- 🎬 **[Vídeo de Apresentação Completa](https://drive.google.com/file/d/1tR2JBF0TXypBAhUvN6qx7hH-IqnkCyWm/view?usp=sharing)**
+- 📄 **[Documentação Acadêmica Completa (PDF)](docs/DOC%20-%20IA%20com%20Propósito.pdf)
 - 📚 **Materiais de Referência:**
   - [AI Act Europeu (Regulamento (UE) 2024/1689)](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R1689)
   - [Princípios de Transparência da UNESCO](https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil)
   - [LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
   - [Documentação Microsoft Responsible AI](https://www.microsoft.com/pt-br/ai/responsible-ai)
-
 ---
 
 ## Contato
