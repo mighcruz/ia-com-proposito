@@ -27,8 +27,9 @@ A **LGPD (Lei nº 13.709/2018)** foi utilizada como referência normativa brasil
 
 Para facilitar a compreensão visual do framework **Marketing Ético 4.0** e da estratégia da campanha, confira o infográfico resumido abaixo:
 
-![Infográfico: O Futuro do Marketing Ético](assets/O_Futuro_do_Marketing_Ético.png)
+<img src="assets/O_Futuro_do_Marketing_Ético.png" alt="Infográfico: O Futuro do Marketing Ético" width="800">
 *(Clique na imagem para ampliar)*
+
 
 ---
 
